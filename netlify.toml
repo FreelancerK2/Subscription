@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Subscripiton.html"
+status = 200
